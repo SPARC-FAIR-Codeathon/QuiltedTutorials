@@ -55,4 +55,11 @@ From your browser, you can then open the notebook by clicking on ***SPARC-tutori
 
 ### **Team**
 
+   * [Yuda Munarko](https://github.com/napakalas) (lead)
+   * [Omkar Athavale](https://github.com/OmkarAthavale) (Developer)
+   * [Mathias Roesler](https://github.com/mathiasroesler) (Writter)
+   * [Niloofar Shahidi]() (Writter)
+   * [Kenneth Tran]() (Developer)
+
 ### **Acknowledgments**
+We would like to thank the organizers of the 2022 **SPARC** Codeathon and thank the **SPARC** Data Resource Center (DRC) teams for their guidance and help during this Codeathon.
