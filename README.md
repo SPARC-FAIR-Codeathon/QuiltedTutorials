@@ -13,7 +13,9 @@
 
 
 ## <center>Mapping 2D **SPARC** data points to a 3D scaffold: a tutorial</center>
-#### The tutorials and everything is available at here, if the website is no longer operational, the instructions that follow will 
+
+#### The tutorials and everything is available at [here](wix.website), if the website is no longer operational, the instructions that follow will work identically.
+
 ## **Table of Content**
  1. [**About**](#About)
  2. [**Dependencies**](#Dependencies)
@@ -32,9 +34,11 @@ Add tutorial descriptions here.
 
 
 ### **Dependencies**
-List of packages that are used in this tutorial
-   * package one, version x
-   * package 2, version x
+Here is the list of all the dependencies that are needed to run this tutorial. They are all listed in the requirements.txt file as well
+
+   * mapclient, version x
+   * opencmiss.zinc, version x
+   * opencmiss.argon, version x
 
 ### **Getting started**
 If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder wit the following command:
