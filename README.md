@@ -10,6 +10,11 @@
 </a>
 </center>
 
+<center>
+    <a href="https://github.com">
+        <img src="https://files.slack.com/files-pri/T027B2G0ZDZ-F03SP7716N6/quiltedtutorials-logos_transparent.png" alt="QuiltedTutorials">
+    </a>
+</center>
 
 
 ## <center>Mapping 2D **SPARC** data points to a 3D scaffold: a tutorial</center>
@@ -67,8 +72,8 @@ From your browser, you can then open the notebook by clicking on ***SPARC-tutori
    * [Yuda Munarko](https://github.com/napakalas) (lead)
    * [Omkar Athavale](https://github.com/OmkarAthavale) (Developer)
    * [Mathias Roesler](https://github.com/mathiasroesler) (Writter)
-   * [Niloofar Shahidi]() (Writter)
-   * [Kenneth Tran]() (Developer)
+   * [Niloofar Shahidi](https://github.com/Niloofar-Sh) (Writter)
+   * [Kenneth Tran](https://github.com/ktra014) (Developer)
 
 ### **Acknowledgments**
 We would like to thank the organizers of the 2022 **SPARC FAIR** Codeathon as well as the **SPARC DRC** teams for their guidance and help during this Codeathon. Find out more about them in the About section!
