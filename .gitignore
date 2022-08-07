@@ -1,3 +1,8 @@
+# package installs
+*.whl
+# pycharm
+*/.idea/*
+
 *.bundle.*
 lib/
 node_modules/
