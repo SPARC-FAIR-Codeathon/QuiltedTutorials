@@ -120,7 +120,7 @@ notebook/labextension
 notebook/schemas
 docs/source/changelog.md
 docs/source/contributing.md
-
+*.ipynb_check*
 # playwright
 ui-tests/test-results
 ui-tests/playwright-report
