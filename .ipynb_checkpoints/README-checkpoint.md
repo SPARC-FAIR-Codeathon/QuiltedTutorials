@@ -1,12 +1,15 @@
 # **<center>SPARC FAIR Codeathon 2022</center>**
-
-<a href="https://sparc.science/help/2022-sparc-fair-codeathon">
-<img src="https://images.ctfassets.net/6bya4tyw8399/2qgsOmFnm7wYIfRrPrqbgx/ae3255858aa12bfcebb52e95c7cacffe/codeathon-graphic.png" alt="FAIR" width="200" hspace="60">
-</a>
-
+<center>
 <a href="https://sparc.science">
-<img src="https://sparc.science/_nuxt/img/logo-sparc-wave-primary.8ed83a5.svg" alt="SPARC" width="200" hspace="100"/>
+<img src="https://sparc.science/_nuxt/img/logo-sparc-wave-primary.8ed83a5.svg" alt="SPARC" width="300"/>
 </a>
+</center>
+<center>
+<a href="https://sparc.science/help/2022-sparc-fair-codeathon">
+<img src="https://images.ctfassets.net/6bya4tyw8399/2qgsOmFnm7wYIfRrPrqbgx/ae3255858aa12bfcebb52e95c7cacffe/codeathon-graphic.png" alt="FAIR" width="200">
+</a>
+</center>
+
 
 
 ## <center>Mapping 2D **SPARC** data points to a 3D scaffold: a tutorial</center>
