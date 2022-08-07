@@ -15,12 +15,12 @@
 ## <center>Mapping 2D **SPARC** data points to a 3D scaffold: a tutorial</center>
 
 ## **Table of Content**
- 1. [About](#About)
- 2. [Dependencies](#Dependencies)
- 3. [Getting started](#Getting-started)
- 4. [License](#License)
- 5. [Team](#Team)
- 6. [Acknowledgments](#Acknowledgments)
+ 1. [**About**](#About)
+ 2. [**Dependencies**](#Dependencies)
+ 3. [**Getting started**](#Getting-started)
+ 4. [**License**](#License)
+ 5. [**Team**](#Team)
+ 6. [**Acknowledgments**](#Acknowledgments)
  
 ### **About**
 Brief description of the SPARC project. Explain that the tutorial is fully functionnal in the Jupyter Notebook. The object of this tutorial is to introduce some of the features of the **SPARC** project in an interactive manner. The goal will be to retrieve 2D **SPARC** datasets of neurons in the stomach and project them onto a 3D scaffold of the organ.  
