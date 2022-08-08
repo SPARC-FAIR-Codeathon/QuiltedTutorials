@@ -1,0 +1,6 @@
+[submodule "SPARC-tutorial-site/themes/docsy"]
+	path = SPARC-tutorial-site/themes/docsy
+	url = https://github.com/google/docsy.git
+[submodule "SPARC-tutorial-site/themes/ananke"]
+	path = SPARC-tutorial-site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

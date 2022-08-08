@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'SPARC FAIR Codeathon'
+theme = 'ananke'
+
+SectionPagesMenu = "main"
+
+[params]
+    site_logo = "/logos/quilt_logo.png"
+
