@@ -7,7 +7,7 @@
 
 # <center>The Quilted tutorial, or how to become a **SPARC** guru</center>
 
-#### The tutorials and everything is available at [here](website), if the website is no longer operational, the instructions that follow will work identically.
+#### The tutorials and everything is available at [here](https://quilted-tutorial.github.io/SPARC-guru/), if the website is no longer operational, the instructions that follow will work identically.
 
 ## **Table of Content**
  1. [**About**](#About)
