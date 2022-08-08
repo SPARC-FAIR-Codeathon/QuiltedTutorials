@@ -1,3 +1,3 @@
-[submodule "SPARC-tutorial-site/themes/ananke"]
-	path = SPARC-tutorial-site/themes/ananke
+[submodule "SPARC-guru/themes/ananke"]
+	path = SPARC-guru/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
