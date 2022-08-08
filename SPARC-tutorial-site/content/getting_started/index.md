@@ -1,6 +1,6 @@
 ---
 title: "Getting started"
-description: "You will find here some information about the SPARC project" 
+description: "You will find here the instructions to start the tutorial" 
 menu:
   main:
     weight: 1
@@ -23,4 +23,4 @@ Once this is done or if you already have Jupyter Lab installed on your machine s
 
     $ cd SPARC-tutorial && jupyter-lab --LabApp.token='' --no-browser
 
-Once Jupyter Lab is running you are all set and ready to go! Follow this [link](http://127.0.0.1:8888/lab) to get started.
+Once Jupyter Lab is running you are all set and ready to go! Follow this [link](http://127.0.0.1:8888/lab) to get started and open the SPARC-tutorial.ipynb file.
