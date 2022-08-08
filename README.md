@@ -52,6 +52,7 @@ Once this is done or if you already have Jupyter Lab installed on your machine s
 From your browser, you can then open the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. 
     
 ### **License**
+This tutorial is available under the MIT License, thereby making it fully accessible to anyone.
 
 ### **Team**
 
