@@ -5,4 +5,4 @@ matplotlib
 ipympl
 numpy
 jupyterlab
-
+scipy
