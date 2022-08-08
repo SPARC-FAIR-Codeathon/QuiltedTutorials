@@ -1,5 +1,6 @@
 ---
 title: "About"
+
 description: "You will find on this page some information about the SPARC project" 
 menu:
   main:

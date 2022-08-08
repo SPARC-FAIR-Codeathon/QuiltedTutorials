@@ -1,5 +1,6 @@
 ---
 title: "Meet the team"
+
 description: "Find out who is behind the Quilted tutorial" 
 menu:
   main:

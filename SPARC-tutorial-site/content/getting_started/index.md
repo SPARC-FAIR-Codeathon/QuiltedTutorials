@@ -1,5 +1,6 @@
 ---
 title: "Getting started"
+
 description: "You will find here the instructions to start the tutorial" 
 menu:
   main:
