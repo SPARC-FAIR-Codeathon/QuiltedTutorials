@@ -5,9 +5,9 @@
 </a>
 </div>
 
-# <center>The Quilted tutorial, or how to become a **SPARC** guru</center>
+# <center>The Quilted tutorial, or how to become a **SPARC** Guru</center>
 
-#### The tutorials and everything is available at [here](https://quilted-tutorial.github.io/SPARC-guru/), if the website is no longer operational, the instructions that follow will work identically.
+#### Please visit our [**website**](https://quilted-tutorial.github.io/SPARC-guru/) where you will find all of the Quilted Tutorials to begin your journey towards becoming a **SPARC** Guru. Don't want to go to the website? Simply follow the instructions in the [**Getting started**](#Getting-started) section.
 
 ## **Table of Content**
  1. [**About**](#About)
@@ -37,12 +37,16 @@ Here is the list of all the dependencies that are needed to run this tutorial. T
    * jupyterlab, version 3.4.4
 
 ### **Getting started**
-If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder wit the following command:
+If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder with the following command:
 
     $ git clone git@github.com:SPARC-FAIR-Codeathon/SPARC-Tutorial.git SPARC-tutorial
 
 The tutorial is contained in a Jupyter Notebook and requires Jupyter Lab to run. 
-If you are unsure if Jupyter Lab is installed on your machine use this command in a terminal:
+#### **If you are familiar with Jupyter Lab**
+Open Jupyter Lab and navigate to the _SPARC-tutorial_ folder. Open the SPARC-tutorial.ipynb file and follow the tutorial.
+
+#### **If you are not familiar with Jupyter Lab**
+Not sure if Jupyter Lab is installed on your machine? No worries, we've got you covered! Check out if it is installed on your machine using this command in a terminal:
 
     $ which jupyter-lab
     
@@ -52,7 +56,7 @@ If there is no output, [install](https://jupyter.org/install) Jupyter Lab with t
     
 Once this is done or if you already have Jupyter Lab installed on your machine simply navigate into the cloned directory and run Jupyter Lab:
 
-    $ cd SPARC-tutorial && jupyter-lab
+    $ cd SPARC-tutorial && jupyter-lab --LabApp.token=''
 
 From your browser, you can then open the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. 
     
@@ -61,11 +65,11 @@ This tutorial is available under the MIT License, thereby making it fully access
 
 ### **Team**
 
-   * [Yuda Munarko](https://github.com/napakalas) (lead)
-   * [Omkar Athavale](https://github.com/OmkarAthavale) (Developer)
-   * [Mathias Roesler](https://github.com/mathiasroesler) (Writter)
-   * [Niloofar Shahidi](https://github.com/Niloofar-Sh) (Writter)
-   * [Kenneth Tran](https://github.com/ktra014) (Developer)
+   * [Yuda Munarko](https://github.com/napakalas) (Team leader)
+   * [Omkar Athavale](https://github.com/OmkarAthavale) (Tutorila developer)
+   * [Mathias Roesler](https://github.com/mathiasroesler) (Writer and Web developer)
+   * [Niloofar Shahidi](https://github.com/Niloofar-Sh) (Writer)
+   * [Kenneth Tran](https://github.com/ktra014) (Tutorial developer)
 
 ### **Acknowledgments**
 We would like to thank the organizers of the 2022 **SPARC FAIR** Codeathon as well as the **SPARC DRC** teams for their guidance and help during this Codeathon. Find out more about them in the About section!
