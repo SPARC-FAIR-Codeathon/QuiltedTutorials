@@ -5,7 +5,7 @@
 </a>
 </div>
 
-# <center>Quilted Tutorials: realising the potential of the **SPARC** toolkit</center>
+# <center>Quilted Tutorials: realising the potential of tools within the **SPARC** ecosystem</center>
 
 #### Please visit our [**website**](https://quilted-tutorial.github.io/SPARC-guru/) where you will find a collection of tutorials to begin your journey towards becoming a **SPARC** Guru. If you want to get started straight away, head to the [**Getting started**](#Getting-started) section.
 
@@ -23,16 +23,19 @@ The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
+In our project, we have designed an online hub and populated it with tutorials to showcase how tools within the **SPARC** ecosystem can be combined to achieve unified workflows. Each tutorial is contained within an individual Jupyter notebook.
 
 ### **Quilted Tutorials**
-#### **Mapping 2D data points to a 3D organ scaffhold**
-The first Quilted Tutorial was designed to demonstrate different features from the [**SPARC**](https://sparc.science/) project. The goal will be to project the 2D locations of neurites in the rat stomach onto a 3D scaffhold of the organ. The data points and the 3D scaffhold will be pulled from **SPARC** datasets. Because the data is [**FAIR**](https://www.nature.com/articles/sdata201618) we will be combining three different datasets of the spatial distribution of the vagal afferents and efferents. Here is the workflow for the Quitled Tutorial, the data is recuperated from Pennsieve and piped into the Jupyter Notebook where the 2D data is mapped to the 3D mesh. Once this is done, we can visualise the data.
+#### **Tutorial 1: Mapping 2D data points to a 3D organ scaffhold**
+The first Quilted Tutorial is designed to guide users on how to project 2D spatial data sets onto a 3D organ scaffold using tools within the [**SPARC**](https://sparc.science/) ecosystem. The objective for this tutorial is to project the spatial locations of 3 different types of neurites on the surface of the rat stomach onto a 3D scaffold of the organ. The experimental data and 3D scaffold are downloaded from the **SPARC** portal and **SPARC** Scaffold Mapping Tools, respectively. Below is a figure of the workflow for the tutorial: the experimental data is acquired using Pennsieve and piped into a Jupyter Notebook where the 2D data is mapped to the 3D organ scaffold and visualised.
 
 
 ![workflow](img/workflow.png)
 
 
-#### **Tutorial 2**
+#### **Tutorial 2: Re-sampling data for computational simulations**
+
+
 ### **Dependencies**
 The tutorial has been tested using Ubuntu 22.04 LTS and Python 3.10.4
 
