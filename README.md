@@ -22,7 +22,10 @@ The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
-The tutorial was designed to demonstrate different features from the [**SPARC**](https://sparc.science/) project. The goal will be to project the 2D locations of neurites in the rat stomach onto a 3D scaffhold of the organ. The data points and the 3D scaffhold will be pulled from **SPARC** datasets. Because the data is [**FAIR**](https://www.nature.com/articles/sdata201618) we will be combining three different datasets of the spatial distribution of the vagal afferents and efferents.
+The Quilted Tutorial was designed to demonstrate different features from the [**SPARC**](https://sparc.science/) project. The goal will be to project the 2D locations of neurites in the rat stomach onto a 3D scaffhold of the organ. The data points and the 3D scaffhold will be pulled from **SPARC** datasets. Because the data is [**FAIR**](https://www.nature.com/articles/sdata201618) we will be combining three different datasets of the spatial distribution of the vagal afferents and efferents. Here is the workflow for the Quitled Tutorial, the data is recuperated from Pennsieve and piped into the Jupyter Notebook where the 2D data is mapped to the 3D mesh. Once this is done, we can visualise the data.
+
+
+![workflow](img/workflow.png)
 
 ### **Dependencies**
 The tutorial has been tested using Ubuntu 22.04 LTS and Python 3.10.4
@@ -35,6 +38,7 @@ Here is the list of all the dependencies that are needed to run this tutorial. T
    * matplotlib, version 3.5.2
    * ipympl, version 0.9.1
    * jupyterlab, version 3.4.4
+   * ipywidgets, version 7.7.1
 
 ### **Getting started**
 If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder with the following command:
