@@ -1,25 +1,13 @@
 # **<center>SPARC FAIR Codeathon 2022</center>**
-<center>
-<a href="https://sparc.science">
-<img src="https://sparc.science/_nuxt/img/logo-sparc-wave-primary.8ed83a5.svg" alt="SPARC" width="300"/>
+<div align="center">
+<a href="https://github.com/SPARC-FAIR-Codeathon/SPARC-Tutorial">
+        <img src="SPARC-tutorial-site/static/logos/quilt_logo.png" alt="QuiltedTutorials" width=250>
 </a>
-</center>
-<center>
-<a href="https://sparc.science/help/2022-sparc-fair-codeathon">
-<img src="https://images.ctfassets.net/6bya4tyw8399/2qgsOmFnm7wYIfRrPrqbgx/ae3255858aa12bfcebb52e95c7cacffe/codeathon-graphic.png" alt="FAIR" width="200">
-</a>
-</center>
+</div>
 
-<center>
-    <a href="https://github.com">
-        <img src="https://files.slack.com/files-pri/T027B2G0ZDZ-F03SP7716N6/quiltedtutorials-logos_transparent.png" alt="QuiltedTutorials">
-    </a>
-</center>
+# <center>The Quilted tutorial, or how to become a **SPARC** guru</center>
 
-
-## <center>Mapping 2D **SPARC** data points to a 3D scaffold: a tutorial</center>
-
-#### The tutorials and everything is available at [here](wix.website), if the website is no longer operational, the instructions that follow will work identically.
+#### The tutorials and everything is available at [here](website), if the website is no longer operational, the instructions that follow will work identically.
 
 ## **Table of Content**
  1. [**About**](#About)
@@ -34,15 +22,13 @@ The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
-
-Add tutorial descriptions here. 
-
+The tutorial was designed to demonstrate different features from the [**SPARC**](https://sparc.science/) project. The goal will be to project the 2D locations of neurites in the rat stomach onto a 3D scaffhold of the organ. The data points and the 3D scaffhold will be pulled from **SPARC** datasets. Because the data is [**FAIR**](https://www.nature.com/articles/sdata201618) we will be combining three different datasets of the spatial distribution of the vagal afferents and efferents.
 
 ### **Dependencies**
 Here is the list of all the dependencies that are needed to run this tutorial. They are all listed in the requirements.txt file as well
 
-   * mapclient, version x
-   * opencmiss.zinc, version x
+   * pandas, version 1.4.3
+   * openpyxl, version 3.0.10
    * opencmiss.argon, version x
 
 ### **Getting started**
