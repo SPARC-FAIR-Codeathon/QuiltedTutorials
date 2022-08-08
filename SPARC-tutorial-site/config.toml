@@ -6,5 +6,5 @@ theme = 'ananke'
 SectionPagesMenu = "main"
 
 [params]
-    site_logo = "quilt_logo.png"
+    site_logo = "/logos/quilt_logo.png"
 
