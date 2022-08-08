@@ -5,7 +5,6 @@ menu:
   main:
     weight: 1
 ---
-{{< ref "Getting_started" >}}
 ### **Initial setup**
 If you have not already done so, clone the GitHub repository onto your local machine into the _SPARC-tutorial_ folder wit the following command:
 
