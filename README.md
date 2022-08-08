@@ -10,18 +10,21 @@
 #### Please visit our [**website**](https://quilted-tutorial.github.io/SPARC-guru/) where you will find all of the Quilted Tutorials to begin your journey towards becoming a **SPARC** Guru. Don't want to go to the website? Simply follow the instructions in the [**Getting started**](#Getting-started) section.
 
 ## **Table of Content**
- 1. [**About**](#About)
- 2. [**Dependencies**](#Dependencies)
- 3. [**Getting started**](#Getting-started)
- 4. [**License**](#License)
- 5. [**Team**](#Team)
- 6. [**Acknowledgments**](#Acknowledgments)
+ 1. [**About SPARC**](#About-SPARC)
+ 2. [**Quilted Tutorials**](#Quilted-Tutorials)
+ 3. [**Dependencies**](#Dependencies)
+ 4. [**Getting started**](#Getting-started)
+ 5. [**License**](#License)
+ 6. [**Team**](#Team)
+ 7. [**Acknowledgments**](#Acknowledgments)
  
-### **About**
+### **About SPARC**
 The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([**SPARC**](https://sparc.science/about)) program is supported by the NIH Common Fund to provide a scientific and technological foundation for future bioelectronic medicine devices and protocols. The initiative is made up of over ***60*** research teams scattered around the globe, all working together on a common objective. The entire project is **Open Source** and follows the **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable ([**FAIR**](https://www.nature.com/articles/sdata201618)) guidelines for data management.
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
+
+### **Quilted Tutorials**
 The Quilted Tutorial was designed to demonstrate different features from the [**SPARC**](https://sparc.science/) project. The goal will be to project the 2D locations of neurites in the rat stomach onto a 3D scaffhold of the organ. The data points and the 3D scaffhold will be pulled from **SPARC** datasets. Because the data is [**FAIR**](https://www.nature.com/articles/sdata201618) we will be combining three different datasets of the spatial distribution of the vagal afferents and efferents. Here is the workflow for the Quitled Tutorial, the data is recuperated from Pennsieve and piped into the Jupyter Notebook where the 2D data is mapped to the 3D mesh. Once this is done, we can visualise the data.
 
 
@@ -29,6 +32,7 @@ The Quilted Tutorial was designed to demonstrate different features from the [**
 
 ### **Dependencies**
 The tutorial has been tested using Ubuntu 22.04 LTS and Python 3.10.4
+
 Here is the list of all the dependencies that are needed to run this tutorial. They are all listed in the requirements.txt file as well
 
    * pandas, version 1.4.3
