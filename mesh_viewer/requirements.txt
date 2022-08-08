@@ -1,6 +1,6 @@
-scaffoldmaker
-opencmiss-zinc
-mapclient
+numpy-stl
 matplotlib
-ipypmpl
+ipympl
+numpy
+jupyterlab
 
