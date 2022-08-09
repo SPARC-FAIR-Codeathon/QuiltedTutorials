@@ -1,0 +1,11 @@
+baseURL = 'https://quilted-tutorial.github.io/SPARC-guru'
+languageCode = 'en-us'
+title = 'SPARC FAIR Codeathon'
+theme = 'ananke'
+
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+    site_logo = "logos/quilt_logo.png"
+

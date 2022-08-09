@@ -1,0 +1,7 @@
+module:
+  hugoVersion:
+    min: "0.84.0"
+params:
+    ananke_socials:
+    - name: github
+      url: https://github.com/SPARC-FAIR-Codeathon/SPARC-Tutorial
