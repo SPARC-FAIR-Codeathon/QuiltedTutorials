@@ -1,7 +1,7 @@
 # **<center>SPARC FAIR Codeathon 2022</center>**
 <div align="center">
 <a href="https://github.com/SPARC-FAIR-Codeathon/SPARC-Tutorial">
-        <img src="SPARC-guru/static/logos/quilt_logo.png" alt="QuiltedTutorials" width=250>
+        <img src="img/QuiltedTutorials_logo.png" alt="QuiltedTutorials" width=250>
 </a>
 </div>
 
@@ -21,12 +21,12 @@
 ### **About**
 The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([**SPARC**](https://sparc.science/about)) program is supported by the NIH Common Fund to provide a scientific and technological foundation for future bioelectronic medicine devices and protocols. The initiative is made up of over ***60*** research teams scattered around the globe, all working together on a common objective. The entire project is **Open Source** and follows the **F**indable, **A**ccessible, **I**nteroperable, and **R**eusable ([**FAIR**](https://www.nature.com/articles/sdata201618)) guidelines for data management.
 
-In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. This year, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
+In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. In 2022, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
-In our project, we have designed an online hub and populated it with tutorials to showcase how tools within the **SPARC** ecosystem can be combined to achieve unified workflows. Each tutorial is contained within an individual Jupyter notebook.
+In our project, we have designed an online hub and populated it with tutorials to showcase how tools within the **SPARC** ecosystem can be combined to achieve unified workflows. Each tutorial is contained within an individual Jupyter Notebook.
 
 ### **Quilted Tutorials**
-#### **Tutorial 1: Mapping 2D data points to a 3D organ scaffhold**
+#### **Tutorial 1: Mapping 2D data points to a 3D organ scaffold**
 The first Quilted Tutorial is designed to guide users on how to project 2D spatial data sets onto a 3D organ scaffold using tools within the [**SPARC**](https://sparc.science/) ecosystem. The objective for this tutorial is to project the spatial locations of 3 different types of neurites on the surface of the rat stomach onto a 3D scaffold of the organ. The experimental data and 3D scaffold are downloaded from the **SPARC** portal and **SPARC** Scaffold Mapping Tools, respectively. Below is a figure of the workflow for the tutorial: the experimental data is acquired using Pennsieve and piped into a Jupyter Notebook where the 2D data is mapped to the 3D organ scaffold and visualised.
 
 
@@ -42,7 +42,7 @@ The second Quilted Tutorial is designed to guide the users on how to modify data
 ### **Dependencies**
 The tutorial has been tested using Ubuntu 22.04 LTS and Python 3.10.4
 
-Here is the list of all the dependencies that are needed to run this tutorial. They are all listed in the requirements.txt file as well
+Here is the list of all the dependencies that are needed to run this tutorial. These are all the dependencies needed to run both tutorials. The list of dependencies required for each individual tutorial can be found in the requirements.txt files inside their folders. 
 
    * pandas, version 1.4.3
    * openpyxl, version 3.0.10
@@ -61,7 +61,7 @@ Start by cloning the GitHub repository onto your local machine into the _SPARC-t
 
 The tutorial is contained in a Jupyter Notebook and requires JupyterLab to run. 
 #### **If you are familiar with JupyterLab**
-Open JupyterLab and navigate to the _SPARC-tutorial_ folder. Open the SPARC-tutorial.ipynb file and follow the tutorial.
+Open JupyterLab and navigate to the _SPARC-tutorial_ folder. Select the tutorial you want to try and enter the corresponding folder. Open the ***SPARC-tutorial.ipynb*** file to begin. You can see which folder corresponds to which tutorial by checking out the available tutorials [here](#Quilted-Tutorials).
 
 #### **If you are not familiar with JupyterLab**
 Not sure if JupyterLab is installed on your machine? No worries, we've got you covered! Check out if it is installed on your machine using this command in a terminal:
@@ -76,7 +76,7 @@ Once this is done or if you already have JupyterLab installed on your machine si
 
     $ cd SPARC-tutorial && jupyter-lab --LabApp.token=''
 
-From your browser, you can try out a tutorial by navigating to the folder and opening the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. 
+From your browser, you can try out a tutorial by navigating to the folder and opening the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. You can see which folder corresponds to which tutorial by checking out the available tutorials [here](#Quilted-Tutorials).
     
 ### **License**
 This tutorial is available under the MIT License, thereby making it fully accessible to anyone.
