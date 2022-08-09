@@ -30,11 +30,14 @@ In our project, we have designed an online hub and populated it with tutorials t
 The first Quilted Tutorial is designed to guide users on how to project 2D spatial data sets onto a 3D organ scaffold using tools within the [**SPARC**](https://sparc.science/) ecosystem. The objective for this tutorial is to project the spatial locations of 3 different types of neurites on the surface of the rat stomach onto a 3D scaffold of the organ. The experimental data and 3D scaffold are downloaded from the **SPARC** portal and **SPARC** Scaffold Mapping Tools, respectively. Below is a figure of the workflow for the tutorial: the experimental data is acquired using Pennsieve and piped into a Jupyter Notebook where the 2D data is mapped to the 3D organ scaffold and visualised.
 
 
-![workflow](img/workflow.png)
+![workflow](img/workflow_tutorial_1.png)
 
 
 #### **Tutorial 2: Re-sampling data for computational simulations**
+The second Quilted Tutorial is designed to guide the users on how to modify data points for other applications. The objective of this tutorial is to resample some 2D data points for future simulations. Below is a figure of the workflow for the tutorial: the experimental data is acquired using Pennsieve and piped into a Jupyter Notebook where the 2D data is processed before being visualised.
 
+
+![workflow](img/workflow_tutorial_2.png)
 
 ### **Dependencies**
 The tutorial has been tested using Ubuntu 22.04 LTS and Python 3.10.4
@@ -49,6 +52,7 @@ Here is the list of all the dependencies that are needed to run this tutorial. T
    * ipympl, version 0.9.1
    * jupyterlab, version 3.4.4
    * ipywidgets, version 7.7.1
+   * tqdm, version 4.64.0
 
 ### **Getting started**
 Start by cloning the GitHub repository onto your local machine into the _SPARC-tutorial_ folder with the following command:
@@ -72,7 +76,7 @@ Once this is done or if you already have JupyterLab installed on your machine si
 
     $ cd SPARC-tutorial && jupyter-lab --LabApp.token=''
 
-From your browser, you can then open the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. 
+From your browser, you can try out a tutorial by navigating to the folder and opening the notebook by clicking on ***SPARC-tutorial.ipynb*** and follow the tutorial from there. 
     
 ### **License**
 This tutorial is available under the MIT License, thereby making it fully accessible to anyone.
