@@ -23,7 +23,7 @@ The **S**timulating **P**eripheral **A**ctivity to **R**elieve **C**onditions ([
 
 In 2021, the amazing team of the **D**ata and **R**esource **C**enter ([**DRC**](https://pubmed.ncbi.nlm.nih.gov/34248680/)) organised a [**Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) to improve various elements of the **SPARC** program. In 2022, they've done it [again](https://sparc.science/help/2022-sparc-fair-codeathon)! 
 
-In our project, we have designed an online hub and populated it with tutorials to showcase how tools within the **SPARC** ecosystem can be combined to achieve unified workflows. Each tutorial is contained within an individual Jupyter Notebook.
+In our project, we have designed an online hub and populated it with tutorials to showcase how tools within the **SPARC** ecosystem can be combined to achieve unified workflows. Each tutorial is contained within an individual Jupyter Notebook. The website is made from [Hugo](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com/) from the [SPARC-guru](https://github.com/quilted-tutorial/SPARC-guru) repository of the [Quilted Tutorials](https://github.com/quilted-tutorial) organisation.
 
 ### **Quilted Tutorials**
 #### **Tutorial 1: Mapping 2D data points to a 3D organ scaffold**
