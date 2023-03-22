@@ -1,8 +1,9 @@
-pandas
-openpyxl
-numpy-stl
-matplotlib
-ipympl
-numpy
-jupyterlab
-scipy
+pandas>=1.4.3
+openpyxl>=3.0.10
+numpy-stl>=2.17.1
+matplotlib>=3.5.2
+ipympl>=0.9.1
+numpy>=1.23.0
+jupyterlab>= 3.4.4
+scipy>=1.9.0
+tqdm>=4.64.1
